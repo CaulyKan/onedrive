@@ -1,5 +1,11 @@
 # OneDrive Free Client
 ###### A complete tool to interact with OneDrive on Linux. Built following the UNIX philosophy.
+[![GitHub version](https://badge.fury.io/gh/abraunegg%2Fonedrive.svg)](https://badge.fury.io/gh/abraunegg%2Fonedrive)
+[![Build Status](https://travis-ci.com/abraunegg/onedrive.svg?branch=master)](https://travis-ci.com/abraunegg/onedrive)
+[![License](https://img.shields.io/badge/license-GPL--3.0-green.svg "GPL-3.0")](LICENSE)
+[![codecov](https://codecov.io/gh/abraunegg/onedrive/branch/master/graph/badge.svg)](https://codecov.io/gh/abraunegg/onedrive)
+[![Coverage Status](https://coveralls.io/repos/github/abraunegg/onedrive/badge.svg?branch=master)](https://coveralls.io/github/abraunegg/onedrive?branch=master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/49baf40abc70485dab937ee16f449ad9)](https://www.codacy.com/app/abraunegg/onedrive?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abraunegg/onedrive&amp;utm_campaign=Badge_Grade)
 
 ### Features:
 * State caching
